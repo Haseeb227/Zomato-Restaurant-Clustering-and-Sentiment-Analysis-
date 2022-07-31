@@ -5,9 +5,13 @@ Online food-delivery platforms are expanding choice and convenience, allowing cu
 
 We have performed following steps while building the model:
 •	Exploratory data analysis
+
 •	Feature Engineering
+
 •	Sentiment analysis
+
 •	Applying Models and Evaluating
+
 •	Clustering
 
 
