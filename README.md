@@ -182,3 +182,22 @@ Summary
 
 • We got best cluster as 5 in K-Means and Principal Component Analysis (PCA).
 
+
+
+## Reference
+
+• GeekforGeeks 
+
+• Towards data science
+
+• Kaggle 
+
+• W3 school
+
+• AlmaBetter 
+
+• Python libraries technical documentation 
+
+• Stackoverflow
+
+
