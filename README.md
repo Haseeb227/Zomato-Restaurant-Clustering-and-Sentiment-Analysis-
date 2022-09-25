@@ -1,7 +1,7 @@
 
 #  Zomato Restaurant Clustering and Sentiment Analysis
 
-A brief description of what this project does and who it's for
+
 
 
 ## Abstract
